@@ -1,0 +1,38 @@
+#bidsdetails1 {
+  width: 100%;
+  margin-top: 2rem;
+}
+
+#bidsdetails1ImgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#bidsdetails2 {
+  font-family: "Exo";
+  font-size: 2rem;
+  margin-top: 1rem;
+  font-weight: 500;
+}
+#bidsdetails3 {
+  font-family: "Exo";
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: orange;
+}
+#bidsdetails4 {
+  font-family: "Exo";
+  font-size: 1rem;
+  font-weight: 500;
+  color: #000;
+}
+#bidsdetails5 {
+  font-family: "Exo";
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #000;
+  margin-top: 0.5rem;
+}
+#bidsdetails6 {
+  background-color: orange;
+}

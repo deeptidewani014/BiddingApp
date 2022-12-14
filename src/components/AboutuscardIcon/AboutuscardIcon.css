@@ -1,0 +1,12 @@
+#abtuscardicon1 {
+  display: flex;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  justify-content: space-evenly;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  background-color: #b1ffd0;
+}
